@@ -4,6 +4,8 @@
 
 <Workspace>
 	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{38C660B3-56BF-43F4-B017-5B9FE0E809EB}" Loaded="No" Name="Classes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Classes.oom"/>
+		<Model Expanded="Yes" ID="{E1FABF72-36A9-4DA7-821F-72E9AED5B8DF}" Name="Требования" Type="{DABA1E0A-0922-4B05-B7F0-B0BD7A73FD33}" URL="ПредприятиеКорольfinal.rqm"/>
 		<Model Expanded="Yes" ID="{38C660B3-56BF-43F4-B017-5B9FE0E809EB}" Name="Classes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Classes.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
