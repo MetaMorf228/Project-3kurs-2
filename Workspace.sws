@@ -6,7 +6,7 @@
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{38C660B3-56BF-43F4-B017-5B9FE0E809EB}" Loaded="No" Name="Classes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Classes.oom"/>
 		<Model Expanded="Yes" ID="{38C660B3-56BF-43F4-B017-5B9FE0E809EB}" Loaded="No" Name="Classes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Classes.oom"/>
-		<Model Expanded="Yes" ID="{E1FABF72-36A9-4DA7-821F-72E9AED5B8DF}" Loaded="No" Name="Требования" Type="{DABA1E0A-0922-4B05-B7F0-B0BD7A73FD33}" URL="ПредприятиеКорольfinal.rqm"/>
+		<Model Expanded="Yes" ID="{E1FABF72-36A9-4DA7-821F-72E9AED5B8DF}" Name="Требования" Selected="Yes" Type="{DABA1E0A-0922-4B05-B7F0-B0BD7A73FD33}" URL="ПредприятиеКорольfinal.rqm"/>
 		<Model ID="{38C660B3-56BF-43F4-B017-5B9FE0E809EB}" Name="Classes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Classes.oom"/>
 		<Model Expanded="Yes" ID="{4400D30E-B8AF-4EFA-8896-90B35EF3C593}" Loaded="No" Name="Architecture" Type="{5215C79E-A9A1-4738-A627-36DA432EFE29}" URL="Architecture.eam"/>
 		<Model Expanded="Yes" ID="{E1FABF72-36A9-4DA7-821F-72E9AED5B8DF}" Loaded="No" Name="Требования" Type="{DABA1E0A-0922-4B05-B7F0-B0BD7A73FD33}" URL="ПредприятиеКорольfinal.rqm"/>
